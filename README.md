@@ -1,2 +1,2 @@
 # pext (browser extension)
-**Just learning extensions!!!**
+**Just for learning purposes **
