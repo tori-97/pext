@@ -1,2 +1,2 @@
 # pext (browser extension)
-**Only for learning proporses !!!**
+**Just learning extensions!!!**
